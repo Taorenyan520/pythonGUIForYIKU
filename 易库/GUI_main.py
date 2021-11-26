@@ -13,4 +13,4 @@ if banbeng == data[0][0]:
     myLodWidget.show()
     sys.exit(app.exec_())
 else:
-    print("版本过时了！联系管理员哦！")
+    print("版本过时了！联系管理员哦！！")
