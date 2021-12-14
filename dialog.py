@@ -82,7 +82,7 @@ class Ui_Dialog(object):
         self.radioBlack.setText(_translate("Dialog", "Black"))
         self.radioRed.setText(_translate("Dialog", "Red"))
         self.radioBlue.setText(_translate("Dialog", "Blue"))
-        self.TextEdit.setPlainText(_translate("Dialog", "10.1"))
+        self.TextEdit.setPlainText(_translate("Dialog", "10.2"))
         self.btnClear.setText(_translate("Dialog", "清空"))
         self.btnOK.setText(_translate("Dialog", "确定"))
         self.btnClose.setText(_translate("Dialog", "退出"))
