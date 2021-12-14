@@ -3,8 +3,8 @@ class UseSQL():
     def __init__(self):
         self.IP = 'gudao19.is-very-good.org'
         self.SQLDataBase = 'work_in_dada'
-        self.SQLUser = 'Testone'
-        self.SQLPassword = 'CLF520clf'
+        self.SQLUser = 'sa'
+        self.SQLPassword = 'yikupassword123'
         self.port = '33614'
         self.connect = pymssql.connect(host=self.IP, user=self.SQLUser, password=self.SQLPassword, database=self.SQLDataBase,
                            charset='utf8', port=self.port)
